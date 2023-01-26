@@ -1,0 +1,7 @@
+{
+  "name": "ApiHttpRequest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

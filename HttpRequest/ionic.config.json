@@ -1,0 +1,7 @@
+{
+  "name": "HttpRequest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
